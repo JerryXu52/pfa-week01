@@ -1,12 +1,12 @@
 # Environment Setup & Agent Report
 
 **Agent Path Chosen**
-- **Agent:** Claude Pro (Claude 3.5 Sonnet)
+- **Agent:** Claude Pro (Claude Opus 5)
 - **Primary Software:** Autodesk Maya 2026 (macOS / Apple Silicon)
 - **Execution Method:** Terminal execution via Python 3 + Socket connection to Maya Command Port (`127.0.0.1:7002`)
 
 **What I Installed**
-- Autodesk Maya 2026 (Student / Educational Version)
+- Autodesk Maya 2026 (Educational Version)
 - macOS System Python 3 & VS Code
 - Git & GitHub repository (`pfa-week01`)
 
