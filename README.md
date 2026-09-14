@@ -6,4 +6,4 @@
 
 **What I'd change:** With more time I would pool a small set of shared shaders rather than building one Lambert network per object (50 objects currently means 50 shaders), and add a bounding-box overlap check so that scattered geometry no longer intersects itself.
 
-**Recording:** [Add your video link here](PASTE_YOUR_RECORDING_URL)
+**Recording:** [Add your video link here](https://youtu.be/tp5Vjp4liss)
